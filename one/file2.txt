@@ -2,7 +2,13 @@ this is file 2 txt.
 
 add more on file 2
 
+<<<<<<< HEAD
 
 
 2025 is coming.
 added another files.
+=======
+hello orange-mode
+
+hello purple mode
+>>>>>>> purple-mode
